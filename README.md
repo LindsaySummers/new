@@ -54,9 +54,9 @@ I did complete the project and everyone loved it. In fact, I think it’s still 
   
 Since the last Ada application, I've been really trying to immerse myself into programming tutorials as well as the developer community.
 
-Learning to program, I’ve been working on [Code Academy], [Khan Academy], Ada’s Jumpstart curriculum, [Code.org], [Scratch.mit.edu], YouTube tutorials, as well as practicing with writing macros in MS Excel.
+Learning to program, I’ve been working on [Code Academy], [Khan Academy], Ada’s Jumpstart curriculum, [Code.org], [Scratch.mit.edu], [YouTube tutorials], as well as practicing with writing macros in MS Excel.
 
-The YouTube tutorials, Khan Academy, and Ada’s Jumpstart curriculum has been a lot more difficult, so I’ve been focusing most of my time there – it’s amazing how in depth those lessons get!
+The [YouTube tutorials], [Khan Academy], and Ada’s Jumpstart curriculum has been a lot more difficult, so I’ve been focusing most of my time there – it’s amazing how in depth those lessons get!
 
 As a break for my brain (yet still trying to be active and learn) I’ve been programming art projects on Code.org which spiral forever when you run the program (like “spin art” from when I was a kid – with a modern techy twist)! On Scratch.mit.edu, I’ve really been enjoying making my own video games.
 
@@ -65,7 +65,7 @@ When I’m not near a computer, I’ve been immersing myself into the developer 
   
 [Code Academy]: https://www.codecademy.com/  
 [Khan Academy]: https://www.khanacademy.org/search?page_search_query=java  
-[Code.org]: http://www.code.org  
-[Scratch]: https://scratch.mit.edu  
+[Code.org]: http://www.code.org/  
+[Scratch.mit.edu]: https://scratch.mit.edu/  
 [YouTube tutorials]: https://www.youtube.com/results?search_query=learn+to+code  
 [EssayQuestions]: http://www.holestories.com/wp-content/uploads/2018/03/LS-Essay-Questions.png  
